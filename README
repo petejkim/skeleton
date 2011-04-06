@@ -1,0 +1,1 @@
+rails 3.0.6 + rspec 2 + factory_girl + shoulda + jasmine + jquery
