@@ -38,4 +38,5 @@ group :test, :development do
   gem 'shoulda'
   gem 'timecop'
   gem 'jasmine'
+  gem 'webrat'
 end

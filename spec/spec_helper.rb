@@ -25,7 +25,7 @@ RSpec.configure do |config|
   # instead of true.
   config.use_transactional_fixtures = true
 
-  # config.before(:each, :type => :controller) do
-  #   self.class.render_views
-  # end
+  config.before(:each, :type => :controller) do
+    self.class.render_views
+  end
 end
